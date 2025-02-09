@@ -1,0 +1,23 @@
+---
+title: Finn test post 1
+date: '2024-02-10'
+tags:
+  - demo-content
+  - simple-post
+  - blog
+  - workflow
+---
+Can I just be lazy and update it in github? Is that a terrible idea, even for microblogging?
+
+I was thinking of making a site about what happened after I quit LinkedIn. I'm curious. Is this a possible workflow for that or do I need to try Ghost for the email integration? Why do I dislike using Ghost?
+
+Checking on formatting:
+- This is a bulleted list
+- Another item is here
+- And another item
+
+> This is a blockquote. Always tough. Why do so many people want blockquotes to be bigger than the main text? Focus on *your* writing, not what someone else said. That should be decoration.
+>
+> --Me
+
+That's all for now. Let's post this.
